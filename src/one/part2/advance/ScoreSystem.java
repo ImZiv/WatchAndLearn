@@ -1,4 +1,4 @@
-package com.tw.advance;
+package one.part2.advance;
 
 public class ScoreSystem {
     public static void main(String[] args) {

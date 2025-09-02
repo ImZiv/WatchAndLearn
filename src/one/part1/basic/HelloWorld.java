@@ -1,4 +1,4 @@
-package com.tw.basic;
+package one.part1.basic;
 
 /**
  * HelloWorld 類別

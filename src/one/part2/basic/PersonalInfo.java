@@ -1,4 +1,4 @@
-package com.tw.basic;
+package one.part2.basic;
 
 /**
  * 宣告姓名、年齡、身高、是否學生變數

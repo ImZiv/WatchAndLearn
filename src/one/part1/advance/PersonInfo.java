@@ -1,4 +1,4 @@
-package com.tw.advance;
+package one.part1.advance;
 
 /**
  * PersonInfo 類別
